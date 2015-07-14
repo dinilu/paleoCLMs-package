@@ -1,0 +1,10 @@
+Package: paleoCLMs
+Type: Package
+Title: Miscelanea package for paleoCLMs project
+Version: 0.1.6
+Date: 2014-10-16
+Author: Diego Nieto Lugilde
+Maintainer: Diego Nieto Lugilde <dinilu@ugr.es>
+Description: This is a package with general functions for the project paleoCLMs. They do many different things.
+License:GPL (>= 2)
+Depends: raster, VGAM, vegan, betapart, gstat, fields, dismo, grid, R (>= 2.14)
